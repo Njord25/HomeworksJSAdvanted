@@ -1,0 +1,16 @@
+body {
+	margin-top: 2%;
+	margin-left: 30%;
+}
+
+.clearfix {
+  overflow: auto;
+  zoom: 1; }
+
+
+.fa-chevron-left:hover {
+    color: #33e;
+}
+.fa-chevron-right:hover {
+    color:#33e;
+}

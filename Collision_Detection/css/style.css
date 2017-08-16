@@ -1,0 +1,15 @@
+canvas {
+	background: #808080;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.main {
+	margin: 0 30% auto;
+}
+
+h1 {
+	color: #900C3F;
+	font-family: 'Amatic SC', cursive;
+	text-align: center;
+}
